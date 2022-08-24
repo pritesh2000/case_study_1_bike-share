@@ -1,2 +1,2 @@
-# case_study_1_bike-share
+# Bike Share Analysis
 This case study is recommended for Google-data-analytics professional course.
