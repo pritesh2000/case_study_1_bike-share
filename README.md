@@ -1,14 +1,12 @@
 # Bike Share Analysis
 This case study is recommended for Google-data-analytics professional course.
 
-[Click to watch in Kaggle](https://www.kaggle.com/code/priteshtadvi/case-study-1-bike-share){:target="_blank"}
-
-
-Visit <a href="https://wp.codingbeautydev.com" target="_blank">Coding Beauty</a> for more educational and interesting content.
+[Click to watch in Kaggle](https://www.kaggle.com/code/priteshtadvi/case-study-1-bike-share)
 
 **In this case study, I used R language in which used tidyverse and dplyr for data cleaning and manipulation and ggplot2 for data visualization and data analysis.**
 
-Observations:
+### Observations:
+
 1. Rides of casual riders increases in weekend while membership riders use on weekday more often.
 2. In June-Sept number of rides increase frequently.
 3. Casual riders trip time is 96% greater than member riders regardless of day or month.
@@ -18,7 +16,7 @@ Observations:
 7. Number of rides taken by members is 37% more than casual riders.
 8. Although classic bike used for more number of rides electric bikes are used for longer distance and docked bikes are used for longer duration of rides.
 
-Recommendations:
+### Recommendations:
 
 1. We can provide weekend pass to attract casual riders and for member riders we can provide them coupon for renew their ridership.
 2. We can provide refferal coupon to member riders when someone make subscribe the membership, by this we can get to new customer and attract casual riders to become member riders.
