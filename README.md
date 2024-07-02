@@ -1,7 +1,7 @@
 # Bike Share Analysis
 This case study is recommended for Google-data-analytics professional course.
 
-[Click to watch in Kaggle](https://www.kaggle.com/code/priteshtadvi/case-study-1-bike-share){:target="_blank" rel="noopener"}
+[Click to watch in Kaggle](https://www.kaggle.com/code/priteshtadvi/case-study-1-bike-share){:target="_blank"}
 
 **In this case study, I used R language in which used tidyverse and dplyr for data cleaning and manipulation and ggplot2 for data visualization and data analysis.**
 
